@@ -2,6 +2,8 @@
 
 Tools to help convert an image to an Unreal Engine 5 (UE5) scene. Uses YOLOv5 image object detection.
 
+![img2ue Demo](https://youtu.be/Z-AMAKUbPGI)
+
 #### Modules
 
 - [x] img2ue-clipboard: given an image, this detects objects and outputs the result into a Unreal Engine-compatible string (automatically copied to the Clipboard) - to then be manually pasted in the UE editor Content Browser search panel. For example:
