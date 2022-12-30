@@ -2,7 +2,7 @@
 
 Tools to help convert an image to an Unreal Engine 5 (UE5) scene. Uses YOLOv5 image object detection.
 
-![img2ue Demo](https://youtu.be/Z-AMAKUbPGI)
+![img2ue Demo](https://www.youtube.com/watch?v=Z-AMAKUbPGI)
 
 #### Modules
 
